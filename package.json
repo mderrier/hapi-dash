@@ -25,8 +25,8 @@
     "lab": "^5.8.0"
   },
   "dependencies": {
-    "blessed": "^0.1.56",
-    "blessed-contrib": "^2.0.5",
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^3.5.5",
     "lodash": "^3.8.0"
   }
 }
